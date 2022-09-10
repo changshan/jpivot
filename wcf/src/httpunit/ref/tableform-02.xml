@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form method="post" action="tableform.jsp"> <table border="1" cellspacing="0" cellpadding="2">
+<tr>
+<th colspan="2" class="xform-title">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<th align="left" class="xform-title">Treeform Demo</th>
+<td align="right" class="xform-close-button">
+<input type="image" src="/wcf/wcf/form/cancel.png" title="Cancel" alt="Cancel"/> </td>
+</tr>
+</table>
+</th>
+</tr>
+<tr>
+<td class="xform-label">Text:</td>
+<td class="xform-input">
+<input title="please enter some text" type="text"/>
+</td>
+</tr>
+<tr>
+<td class="xform-label">Integer:</td>
+<td class="xform-input">
+<input title="please enter an integer" type="text"/>
+</td>
+</tr>
+<tr>
+<td class="xform-label">Table:</td>
+<td class="xform-input">
+<table border="1" cellspacing="0" cellpadding="2">
+<tr>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/select.png"/>
+</th>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/sort-dn.png"/> String</th>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/sort-dc.png"/> Date</th>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/sort-dn.png"/> Double</th>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/sort-dn.png"/> Integer</th>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/sort-dn.png"/> Click Me</th>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/sort-dn.png"/> Image 1</th>
+<th class="xtable-heading">
+<input type="image" border="0" src="/wcf/wcf/table/sort-dn.png"/> Image 2</th>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 0</td>
+<td align="left" class="xtable-data">02/01/2002</td>
+<td align="right" class="xtable-data">26.07</td>
+<td align="right" class="xtable-data">876</td>
+<td align="right" class="xtable-data">
+<a>47</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/> Text 88</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 1</td>
+<td align="left" class="xtable-data">02/02/2002</td>
+<td align="right" class="xtable-data">4.98</td>
+<td align="right" class="xtable-data">217</td>
+<td align="right" class="xtable-data">
+<a>628</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/> Text 21</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 2</td>
+<td align="left" class="xtable-data">02/03/2002</td>
+<td align="right" class="xtable-data">181.51</td>
+<td align="right" class="xtable-data">912</td>
+<td align="right" class="xtable-data">
+<a>884</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/> Text 13</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 3</td>
+<td align="left" class="xtable-data">02/04/2002</td>
+<td align="right" class="xtable-data">229.86</td>
+<td align="right" class="xtable-data">596</td>
+<td align="right" class="xtable-data">
+<a>948</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/> Text 88</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 4</td>
+<td align="left" class="xtable-data">02/05/2002</td>
+<td align="right" class="xtable-data">568.18</td>
+<td align="right" class="xtable-data">249</td>
+<td align="right" class="xtable-data">
+<a>168</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/> Text 73</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 5</td>
+<td align="left" class="xtable-data">02/06/2002</td>
+<td align="right" class="xtable-data">117.69</td>
+<td align="right" class="xtable-data">594</td>
+<td align="right" class="xtable-data">
+<a>762</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/> Text 65</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 6</td>
+<td align="left" class="xtable-data">02/07/2002</td>
+<td align="right" class="xtable-data">22.57</td>
+<td align="right" class="xtable-data">87</td>
+<td align="right" class="xtable-data">
+<a>146</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/> Text 32</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 7</td>
+<td align="left" class="xtable-data">02/08/2002</td>
+<td align="right" class="xtable-data">68.83</td>
+<td align="right" class="xtable-data">124</td>
+<td align="right" class="xtable-data">
+<a>310</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/> Text 5</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 8</td>
+<td align="left" class="xtable-data">02/09/2002</td>
+<td align="right" class="xtable-data">51.70</td>
+<td align="right" class="xtable-data">783</td>
+<td align="right" class="xtable-data">
+<a>346</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/> Text 38</a>
+</td>
+</tr>
+<tr>
+<td class="xtable-data">
+<input type="checkbox"/>
+<input type="hidden"/>
+</td>
+<td align="left" class="xtable-data">Hello World: 9</td>
+<td align="left" class="xtable-data">02/10/2002</td>
+<td align="right" class="xtable-data">48.31</td>
+<td align="right" class="xtable-data">613</td>
+<td align="right" class="xtable-data">
+<a>207</a>
+</td>
+<td class="xtable-data">
+<a>
+<img src="wcf/table/sort-dn.png" border="0"/>
+</a> </td>
+<td align="left" class="xtable-data">
+<a>
+<img src="wcf/table/sort-ac.png" border="0"/> Text 84</a>
+</td>
+</tr>
+<tr>
+<td colspan="8" class="xtable-data"> Page 1/2 <input type="image" border="0" src="/wcf/wcf/table/page-next.png"/>
+<input type="image" border="0" src="/wcf/wcf/table/page-last.png"/>  Goto Page <input type="text" maxlength="3" size="3"/> <input type="image" border="0" src="/wcf/wcf/table/gotopage.png"/>  Rows/page <input type="text" maxlength="3" size="3"/> <input type="image" border="0" src="/wcf/wcf/table/gotopage.png"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="right">
+<input type="submit"/> <input type="submit"/>
+</td>
+</tr>
+</table>
+</form>

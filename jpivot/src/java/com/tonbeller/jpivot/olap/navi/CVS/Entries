@@ -1,0 +1,26 @@
+/CalcMember.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/CalcSet.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/CellProperties.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/ChangeSlicer.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/ClickableExtension.java/1.2/Thu Nov  9 13:25:43 2006/-kk/
+/ClickableExtensionImpl.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/DrillExpandMember.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/DrillExpandPosition.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/DrillReplace.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/DrillThrough.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/ExpressionParser.java/1.2/Mon Jul  9 16:17:07 2007/-kk/
+/InvalidExpressionException.java/1.2/Mon Jul  9 16:17:09 2007/-kk/
+/MdxQuery.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/MemberDeleter.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/MemberProperties.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/MemberTree.java/1.2/Mon Jul  9 16:17:09 2007/-kk/
+/NonEmpty.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/PageInfo.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/PlaceHierarchiesOnAxes.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/PlaceMembersOnAxes.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/ResetQuery.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/SetParameter.java/1.2/Thu Nov  9 13:25:43 2006/-kk/
+/SortRank.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/SwapAxes.java/1.1/Tue Jul  5 14:19:48 2005/-kk/
+/package.html/1.1/Tue Jul  5 14:19:48 2005/-kk/
+D
